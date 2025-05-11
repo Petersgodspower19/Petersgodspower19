@@ -33,7 +33,7 @@ I enjoy learning new technologies, working on real-world apps, and bringing idea
 Here are a few of the projects I'm most proud of:
 
 - **Blog** – A full-stack blog platform with authentication, rich text editing, and author/follow features. [React, Node.js, MongoDB]
-- **Kevin** – A personal project that acts like a digital assistant website with interactive features. [React, API integrations]
+- **Kreivin** – A hospitality vlog website with a YouTube-integrated showcase and seasonal event highlights. [React, Video Background, Vercel]
 - **Pollify** – A real-time voting application using Express, MongoDB, and WebSockets. [Next.js, Socket.IO]
 
 More projects in my pinned repos below!
