@@ -1,4 +1,4 @@
-# Hi, I'm Peter!
+# Hi, I'm Peters Godspower!
 
 I'm a passionate full-stack developer who enjoys building creative, meaningful web experiences. My work spans across frontend and backend development — from crafting sleek UIs in React to building robust APIs with Node.js and Express, and working with databases like MySQL and MongoDB.
 
